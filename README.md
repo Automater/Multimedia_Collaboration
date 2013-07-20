@@ -16,7 +16,7 @@
 
 Select the multimedia file to play by running the script or selecting from the drop-down menu:
 
-![Alt text](http://173.0.133.251/images/GitHub/mnu0.jpg "Play the multimedia file via script")
+![Alt text](http://173.0.133.251/images/GitHub/mnu.jpg "Play the multimedia file via script")
 
 ![Alt text](http://173.0.133.251/images/GitHub/mnu1.jpg "Play the multimedia file via script")
 
