@@ -22,9 +22,9 @@ Whether your database solution is simple or complex, there are five key issues t
 
 
 
-### DATABASE CONVERSION / SYNCING POSSIBILITY MATRIX ###
+### MULTIMEDIA POSSIBILITY CHART ###
 
-![Alt text](http://173.0.133.251/images/GitHub/synch2a.gif "Integrate with Databases")
+![Alt text](http://173.0.133.251/images/GitHub/multimediaPrograms.png "Possible Multimedia Files")
 
 
 
