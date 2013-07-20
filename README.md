@@ -4,6 +4,14 @@
 
 
 
+
+### PRESENTATION IDEAS ###
+
+![Alt text](http://173.0.133.251/images/GitHub/multimedia2.jpg "Creativity, Collaboration and Results")
+
+
+
+
 ### MULTIMEDIA FILES AND PROGRAMS ###
 
 ![Alt text](http://173.0.133.251/images/GitHub/multimediaPrograms.png "Possible Multimedia Files")
