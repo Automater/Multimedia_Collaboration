@@ -4,7 +4,7 @@
 
 
 
-### MULTIMEDIA POSSIBILITY CHART ###
+### MULTIMEDIA FILES AND PROGRAMS ###
 
 ![Alt text](http://173.0.133.251/images/GitHub/multimediaPrograms.png "Possible Multimedia Files")
 
