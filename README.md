@@ -14,7 +14,7 @@
 
 ### MULTIMEDIA FILES AND PROGRAMS ###
 
-![Alt text](http://173.0.133.251/images/GitHub/multimediaPrograms.png "Possible Multimedia Files")
+![Alt text](http://173.0.133.251/images/GitHub/MultimediaPrograms.jpg "Possible Multimedia Files")
 
 
 
