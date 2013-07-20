@@ -1,0 +1,30 @@
+@ACL1000
+^LOGFILE  Open_Webpage_Audio_Video            "" "Open_Webpage_Audio_Video.LOG"
+[PARENT_FOLDER_ID] 0
+^BATCH    Open_Radio_BBC_Radio_1             
+[PARENT_FOLDER_ID] 0
+COMMENT Other BBC Radio web streaming links can be found at http://www.bbcstreams.com/  OR you could search and use your favourite radio web stream
+
+EXECUTE 'wmplayer.exe "http://bbc.co.uk/radio/listen/live/r1.asx"'
+^BATCH    Open_Music_La_Paloma               
+[PARENT_FOLDER_ID] 0
+EXECUTE 'wmplayer.exe "C:\ACL_DATA\Open_Webpage_Audio_Video\La Paloma.mp3"'
+^BATCH    Open_Music_Mamma_Mia               
+[PARENT_FOLDER_ID] 0
+EXECUTE 'wmplayer.exe "C:\ACL_DATA\Open_Webpage_Audio_Video\Mamma Mia.mp3"'
+^BATCH    Open_Webpage_Google                
+[PARENT_FOLDER_ID] 0
+EXECUTE 'iexplore.exe "www.google.com"'
+^BATCH    Open_Webpage_ACL                   
+[PARENT_FOLDER_ID] 0
+EXECUTE 'iexplore.exe "www.acl.com"'
+^BATCH    Open_Radio_RTHK_Radio_2            
+[PARENT_FOLDER_ID] 0
+EXECUTE 'wmplayer.exe "http://www.rthk.org.hk/live2.asx"'
+^BATCH    Open_Video_Managed_Analytics       
+[PARENT_FOLDER_ID] 0
+EXECUTE 'wmplayer.exe "C:\ACL_DATA\Open_Webpage_Audio_Video\Managed Analytics.avi"'
+^BATCH    Open_Video_Continuous_Auditing     
+[PARENT_FOLDER_ID] 0
+EXECUTE 'wmplayer.exe "C:\ACL_DATA\Open_Webpage_Audio_Video\Continuous Auditing.mp4"'
+^OPEN 

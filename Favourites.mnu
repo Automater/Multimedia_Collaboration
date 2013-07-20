@@ -1,0 +1,28 @@
+MAIN MENU                           5                                                                                            .
+Music                               10 menu_def                                                                                  .
+Radio                               15 menu_def                                                                                  .
+Video                               20 menu_def                                                                                  .
+Webpage                             25 menu_def                                                                                  .
+Quit ACL                            QUIT                                                                                         .
+                                                                                                                                 .
+                                                                                                                                 .
+                                                                                                                                 .
+                                                                                                                                 .
+MUSIC                               2                                                                                            .
+La Paloma                           EXECUTE 'wmplayer.exe "C:\ACL_DATA\Open_Webpage_Audio_Video\La Paloma.mp3"' ASYNC            .
+Mamma Mia                           DO Open_Music_Mamma_Mia                                                                      .
+                                                                                                                                 .
+                                                                                                                                 .
+RADIO                               2                                                                                            .
+BBC Radio 1                         DO Open_Radio_BBC_Radio_1                                                                    .
+RTHK Radio 2                        DO Open_Radio_RTHK_Radio_2                                                                   .
+                                                                                                                                 .
+                                                                                                                                 .
+VIDEO                               2                                                                                            .
+ACL Continuous Auditing             DO Open_Video_Continuous_Auditing                                                            .
+ACL Managed Analytics               DO Open_Video_Managed_Analytics                                                              .
+                                                                                                                                 .
+                                                                                                                                 .
+WEBPAGE                             2                                                                                            .
+ACL                                 DO Open_Webpage_ACL                                                                          .
+Google Search Engine                DO Open_Webpage_Google                                                                       .
