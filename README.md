@@ -1,4 +1,4 @@
-![Alt text](http://173.0.133.251/images/GitHub/multimedia4.jpg "Creativity, Collaboration and Results")
+![Alt text](http://173.0.133.251/images/GitHub/multimedia5.jpg "Creativity, Collaboration and Results")
 
 
 
