@@ -1,8 +1,8 @@
-### Open Audio, Video and Webpages ###
+### Open Multimedia Files (Audio and Video) and Webpages ###
 
 ![Alt text](http://173.0.133.251/images/GitHub/multimedia1.jpg "Integrate with Multimedia Files")
 
-Integrating with SQL and major databases means the ability to export data into a SQL and other major databases, performing update, backup and replication services.
+Allows multimedia files and webpages to be opened and played in ACL.
 
 
 
