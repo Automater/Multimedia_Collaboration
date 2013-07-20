@@ -51,4 +51,3 @@ Modifications to the scripts may obviously be made to add your own different mul
 
 ![Alt text](http://173.0.133.251/images/GitHub/use-methodology.gif "How I Work")
 
-Email me: patrickong@gmail.com
