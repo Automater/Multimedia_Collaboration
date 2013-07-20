@@ -3,7 +3,7 @@
 
 
 
-### MULTIMEDIA FILES AND PROGRAMS ###
+### MULTIMEDIA FILES AND PROGRAMS THAT CAN BE COLLABORATED WITH ###
 
 ![Alt text](http://173.0.133.251/images/GitHub/MultimediaPrograms.jpg "Possible Multimedia Files")
 
