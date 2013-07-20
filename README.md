@@ -11,7 +11,10 @@
 
 ### TESTING APPROACH ###
 
-Select the multimedia file to run by selecting the relevant script or Applications menu (i.e. Favourites.mnu):
+![Alt text](http://173.0.133.251/images/GitHub/multimedia1.jpg "Integrate with Multimedia Files")
+
+
+Select the multimedia file to play by running the script or selecting from the drop-down menu:
 
 ![Alt text](http://173.0.133.251/images/GitHub/mnu0.jpg "Play the multimedia file via script")
 
