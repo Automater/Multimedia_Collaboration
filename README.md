@@ -2,8 +2,6 @@
 
 ![Alt text](http://173.0.133.251/images/GitHub/multimedia1.jpg "Integrate with Multimedia Files")
 
-Allows multimedia files and webpages to be opened and played in ACL.
-
 
 
 ### MULTIMEDIA POSSIBILITY CHART ###
