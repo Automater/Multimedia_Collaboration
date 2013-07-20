@@ -1,12 +1,3 @@
-### Open Multimedia Files (Audio and Video) and Webpages ###
-
-![Alt text](http://173.0.133.251/images/GitHub/multimedia1.jpg "Integrate with Multimedia Files")
-
-
-
-
-### PRESENTATION IDEAS ###
-
 ![Alt text](http://173.0.133.251/images/GitHub/multimedia3.jpg "Creativity, Collaboration and Results")
 
 
