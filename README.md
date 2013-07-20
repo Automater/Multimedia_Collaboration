@@ -20,16 +20,21 @@
 
 ### TESTING APPROACH ###
 
-This project includes an ACL script which leverages the new EXECUTE command in ACL Analytics v10 to conduct database conversion between MS SQL database (source) and Access database (destination). The scripts included in the project will:
+Select the multimedia file to run by selecting the relevant script or Applications menu (i.e. Favourites.mnu):
 
-1.  Run the DBConvert tool (downloadable trial from http://dbconvert.com/convert-access-to-mssql-sync.php) in the script "Integrate_SQL_and_Databases".  The sync progress is shown below:
+![Alt text](http://173.0.133.251/images/GitHub/mnu0.jpg "Play the multimedia file via script")
 
-![Alt text](http://173.0.133.251/images/GitHub/progress.gif "Synchronization Progress")
+![Alt text](http://173.0.133.251/images/GitHub/mnu1.jpg "Play the multimedia file via script")
 
-2.  The software's scheduled service will also perform the conversion at a regular interval.  (See www.dbconvert.com/scheduler-configuration-manual.php for more info.)
+![Alt text](http://173.0.133.251/images/GitHub/mnu2.jpg "Play the multimedia file via script")
 
+![Alt text](http://173.0.133.251/images/GitHub/mnu3.jpg "Play the multimedia file via script")
 
-Modifications to the scripts may obviously be made to add your own different databases' login credentials, software name and path, etc. The scripts simply illustrate an example of how to conduct a conversion between MS SQL database (source) and Access database (destination).  (For more info, see http://dbconvert.com/faq.php)
+![Alt text](http://173.0.133.251/images/GitHub/mnu4.jpg "Play the multimedia file via script")
+
+![Alt text](http://173.0.133.251/images/GitHub/mnu5.jpg "Play the multimedia file via script")
+
+Modifications to the scripts may obviously be made to add your own different multimedia files by editing "Favourites.mnu" file and the relevant script file.)
 
 
 
