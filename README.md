@@ -33,6 +33,19 @@ Modifications to the scripts may obviously be made to add your own different dat
 
 
 
+
+#### Known Issues: ####
+
+1)  The *.mnu file can only contain 1 EXECUTE Command.  
+
+![Alt text](http://173.0.133.251/images/GitHub/Firewall_Blocked_Allow_Access.gif "Firewall Prompt for Permission")
+
+2)  ACL crashes if the *.mnu file contains more than 1 EXECUTE Command.  
+
+![Alt text](http://173.0.133.251/images/GitHub/Firewall_Blocked_Allow_Access.gif "Firewall Prompt for Permission")
+
+
+
 #### Methodology ####
 
 ![Alt text](http://173.0.133.251/images/GitHub/use-methodology.gif "How I Work")
