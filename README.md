@@ -32,6 +32,13 @@ Modifications to the scripts may obviously be made to add your own different mul
 
 
 
+### THIRD-PARTY REQUIREMENTS ###
+
+You can run any multimedia files with the respective multimedia programs installed into your PC.
+
+![Alt text](http://173.0.133.251/images/GitHub/MultimediaPrograms.jpg "Possible Multimedia Files")
+
+
 
 #### Known Issues: ####
 
